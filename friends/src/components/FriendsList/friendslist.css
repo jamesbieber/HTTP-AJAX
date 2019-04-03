@@ -1,0 +1,26 @@
+.friends-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.friends-list div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  margin-bottom: 2%;
+  background-color: rgb(41, 41, 41);
+}
+
+.friends-list h2 {
+  font-size: 24px;
+  color: white;
+}
+
+.friends-list p {
+  font-size: 18px;
+  color: white;
+}
